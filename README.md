@@ -13,3 +13,7 @@ jgjldjfdjfkd
 ![image_is_here](image-25-09-20-10-20.heic)
 
 ![not_my_dog](https://lapkins.ru/upload/iblock/38e/38e08ee994551d5678f44ad81ff16e0f.jpg)
+
+column1 | column2 | column3
+:---- | ----: | :----:
+text1 | text2 | text3
